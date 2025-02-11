@@ -1,5 +1,5 @@
 # 🤖 D20 Bot for discord 
-This was just a cool thing that i did, but hey, **it actually works!**, his old name was **OmniDice**, but, i tought it didn't clear it function from first sight, so i changed it!
+This was just a old project that i did, but hey, **it actually works!**, his old name was **OmniDice**, but, i tought it didn't clear it function from first sight, so i changed it!
 ## 📚 How to put it on your server 
 1. You need to create an bot on discord developer portal and put it on your discord server
 2. When the bot is created you can get its token
