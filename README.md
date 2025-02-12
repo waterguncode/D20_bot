@@ -12,7 +12,7 @@ This was just a old project that i did, but hey, **it actually works!**, his old
 - **D20 Help**: !d20.help
 
 ## 🛡️ It works for discord developer badge ?
-**Yes**. And, if you want just that badge, you should try **Discord API**, its not that hard and this project is a perfect example of it, you can get it by your own merit<br>
+**Yes**. And, if you want just that badge, you should try **Discord API**, its not that hard and this project is a perfect example of it, you can get it by your own merit<br><br>
 This is just an incentive. It is a really cool badge
 
 ## 📜 License
